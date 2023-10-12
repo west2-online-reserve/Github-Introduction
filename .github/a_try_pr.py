@@ -1,1 +1,1 @@
-print("Hello West2-online")
+print("Hello West2")
